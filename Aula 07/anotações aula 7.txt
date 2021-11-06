@@ -1,0 +1,40 @@
+Operadores
+
+5 + 2 = 7
+5 - 2 = 3
+5 * 2 = 10
+5 / 2 = 2,5 // divisão inteira
+5 % 2 = 1  // resto da divisão 
+5 **2 = 25 // Potencia
+
+Ordem de Precedencia dos operadores
+()
+**
+* / %
++ -
+
+Operadores de atribuição 
+Incremento ++ ex: n =1  n ++ n = 2
+decremento -- ex: n --  n= 1
+
+operadores relacionais
+
+5 > 2 true
+7 < 4 False
+8 >= 8 True
+9 <= 7 False
+5 == 5 True
+4 != 4 False
+
+Operador de identidade ===  ex: 5 === '5' = false
+operador de identidade !== ex: 5 !== '5' = true
+
+Operadores logicos
+! Negação
+&& Conjução "E"
+|| Disjunção "ou"
+
+Operador ternario
+
+?: 3==3? "sim": "nao" se for 3 = sim
+

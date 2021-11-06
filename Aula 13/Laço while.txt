@@ -1,0 +1,14 @@
+Laço de repetição com teste logico no inicios
+while = 'enquanto'
+
+
+var c = 1
+while(c < 29){ // repete a condição enquanto for verdadeira!
+    console.log ('TUDO BEM')
+    c++
+}
+
+estrutura de repetição com teste logico no final
+do{
+//executa bloco
+} while(condição) //Repete o bloco do{}
